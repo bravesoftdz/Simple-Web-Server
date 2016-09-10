@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/09/10 20:19:01.511.pas,C:\Users\Adriaan\Documents\RAD Studio\Projects\Unit1.pas=G:\Projects\Simple Web Server\uSimpleWebServer.pas</Transaction>
+    <Transaction>2016/09/10 20:19:01.511.dfm,C:\Users\Adriaan\Documents\RAD Studio\Projects\Unit1.dfm=G:\Projects\Simple Web Server\uSimpleWebServer.dfm</Transaction>
+    <Transaction>2016/09/10 20:19:13.145.dproj,C:\Users\Adriaan\Documents\RAD Studio\Projects\Project1.dproj=G:\Projects\Simple Web Server\pSimpleWebServer.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
